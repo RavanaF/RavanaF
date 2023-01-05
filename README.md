@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Ravana!!!💚 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravana-pereira-de-fran%C3%A7a-1bb118204/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravana-fran%C3%A7a-1bb118204/)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RavanaF&show_icons=true&theme=tokyonight)
