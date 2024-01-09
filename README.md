@@ -17,4 +17,4 @@
     <img algin="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 </br>
-Sou formada no Ensino Médio Integrado ao Técnico de Informática para Internet do Instituto Federal de São Paulo do Campus Guarulhos (2019-2022). Uma entusiasta da tecnologia, estou à procura de novas oportunidades para evoluir os meus conhecimentos na área.💚
+Sou formada no Ensino Médio Integrado ao Técnico de Informática para Internet do Instituto Federal de São Paulo do Campus Guarulhos (2019-2022). Esta conta foi utilizada para guardar alguns projetos e atividades que realizei no IFSP.💚
